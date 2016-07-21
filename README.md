@@ -1,8 +1,12 @@
-Verificação e Vaidação de Software - GRUPO 08 
+Verificação e Validação de Software - GRUPO 08 
 --- 
 
 Repositório destinado a elaboração do *Documento de Plano de Testes* do projeto Processo Seletivo, criado para a disciplina de Verificação e Validação de Software 2016-1 da Universidade Federal de Goiás, ministrada pelo professor Gilmar Ferreira Arantes. 
 
+
+#### Descrição do Projeto
+
+A descrição do projeto pode ser acessada clicando [aqui](https://github.com/Campusero123/VVS-GRUPO8/blob/master/descricao-trabalho-final-vvs-20161.md).
 
 #### Colaboradores 
 
